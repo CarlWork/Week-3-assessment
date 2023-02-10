@@ -1,0 +1,63 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.large-yellow-button {
+	font-size: 25px;
+	background-color: yellow;
+}
+
+#info {
+	background-color: rgb(192, 62, 192);
+	color: lime;
+	font-size: larger;
+	display: flex;
+	align-items: center;
+	justify-content:space-around;
+}
+
+#details {
+	background-color: bisque;
+	color: green;
+	display: flex;
+	justify-content:space-around;
+	align-items: row;
+}
+
+
+
